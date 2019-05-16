@@ -6,6 +6,10 @@ __pycache__/
 # C extensions
 *.so
 
+# Mac junk
+.DS_*
+
+
 # Distribution / packaging
 .Python
 build/
